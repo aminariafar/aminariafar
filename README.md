@@ -1,9 +1,9 @@
 
 # Hi there, I'm Amin 👋
 
-My academic background is in **Computer Science** at the **University of Tehran**, complemented by a minor in **Statistics**. I approach computational problems through both mathematical modeling and software development, with interests spanning **machine learning, natural language processing, data science, and information retrieval**.
+My academic background is in **Computer Science** at the **University of Tehran**, complemented by a minor in **Statistics**. I approach computational problems through both mathematical modeling and software development, with interests spanning **Machine Learning, Natural Language Processing, Data Science, and Information Retrieval**.
 
-I'm also interested in the human side of computing—especially **human-computer interaction (HCI)**,  **cognitive science**, and **social science**—and how computational methods connect with human behavior and cognition.
+I'm also interested in the human side of computing—especially **Human-Computer Interaction (HCI)**,  **Cognitive Science**, and **Social Science**—and how computational methods connect with human behavior and cognition.
 
 ## 🛠️ Toolbox
 
