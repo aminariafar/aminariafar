@@ -6,7 +6,7 @@ My technical interests span **Machine Learning, Natural Language Processing, Dat
 
 There's also a human side to computing that I find just as interesting. **Human-Computer Interaction (HCI), Cognitive Science, and Social Science** have shaped the kinds of questions I like exploring, particularly those involving human behavior, language, and how people interact with technology.
 
-## 🧩 A Little More About Me
+## A Little More About Me
 
 - 🔬 **Research and experimentation:** I've explored statistical modeling and different machine learning approaches, with an interest in understanding not just whether a method works, but *why* and *when* it works.
 - 💻 **Building and engineering:** I enjoy putting ideas into practice, from NLP and retrieval workflows to backend services and data-processing systems.
