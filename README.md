@@ -1,9 +1,16 @@
-
 # Hi there, I'm Amin 👋
 
-My academic background is in **Computer Science** at the **University of Tehran**, complemented by a minor in **Statistics**. I approach computational problems through both mathematical modeling and software development, with interests spanning **Machine Learning, Natural Language Processing, Data Science, and Information Retrieval**.
+My background is in **Computer Science** at the **University of Tehran**, where I also pursued a minor in **Statistics**. I enjoy the mix of mathematical reasoning and hands-on problem-solving that computer science offers: understanding how a method works, experimenting with it, and building something useful around it.
 
-I'm also interested in the human side of computing—especially **Human-Computer Interaction (HCI)**,  **Cognitive Science**, and **Social Science**—and how computational methods connect with human behavior and cognition.
+My technical interests span **Machine Learning, Natural Language Processing, Data Science, and Information Retrieval**. I'm drawn to both the research side of these fields—where questions, assumptions, and experiments matter—and the engineering side, where ideas have to work beyond a notebook.
+
+There's also a human side to computing that I find just as interesting. **Human-Computer Interaction (HCI), Cognitive Science, and Social Science** have shaped the kinds of questions I like exploring, particularly those involving human behavior, language, and how people interact with technology.
+
+## A little more about me
+
+- 🔬 **Research and experimentation:** I've explored statistical modeling and different machine learning approaches, with an interest in understanding not just whether a method works, but *why* and *when* it works.
+- 💻 **Building and engineering:** I enjoy putting ideas into practice, from NLP and retrieval workflows to backend services and data-processing systems.
+- 📚 **Teaching and learning:** I've been a teaching assistant for courses including Probability, Calculus, and Nonlinear Programming. Explaining technical concepts to others has been a valuable part of my own learning.
 
 ## 🛠️ Toolbox
 
