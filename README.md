@@ -1,42 +1,28 @@
+
 # Hi there, I'm Amin 👋
 
-Welcome to my GitHub profile!  
-I'm a computer science student whose interests lie at the intersection of **Artificial Intelligence** and **Data Science**, where I enjoy building models, analyzing data, and experimenting with algorithms that bring meaningful insights.
+My academic background is in **Computer Science** at the **University of Tehran**, complemented by a minor in **Statistics**. I approach computational problems through both mathematical modeling and software development, with interests spanning **machine learning, natural language processing, data science, and information retrieval**.
 
----
-
-## 🔍 About Me
-- Passionate about **AI research** and **data-driven solutions**  
-- Experience with **machine learning**, **deep learning**, and **data analysis**  
-- Interested in projects that blend **theory** with **practical applications**  
-- Always curious about exploring new ideas and improving existing models  
-
----
+I'm also interested in the human side of computing—especially **human-computer interaction (HCI)**,  **cognitive science**, and **social science**—and how computational methods connect with human behavior and cognition.
 
 ## 🛠️ Toolbox
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
+| Area | Languages, frameworks & tools |
+| --- | --- |
+| **Programming** | Python · C++ · Java · R · SQL |
+| **Machine Learning** | PyTorch · TensorFlow · scikit-learn · XGBoost |
+| **Data Analysis & Visualization** | NumPy · pandas · Matplotlib · Seaborn |
+| **NLP, LLMs & Retrieval** | LangChain · Sentence-BERT · text embeddings · RAG workflows |
+| **Backend & APIs** | Django · FastAPI · REST APIs · SQLAlchemy |
+| **Databases & Storage** | PostgreSQL · Redis · MinIO |
+| **Data & Developer Tools** | PySpark · Apache Kafka · Docker / Docker Compose · Git · Linux · Jupyter |
 
 ## 📊 Top Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminariafar&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" 
-    alt="Top Languages" 
-    width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminariafar&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="40%" />
 </p>
 
 ---
 
-⭐️ Feel free to explore my repositories and connect if you find something interesting!
+[LinkedIn](https://www.linkedin.com/in/aminariafar/) · [Email](mailto:amin.ariafar0@gmail.com)
